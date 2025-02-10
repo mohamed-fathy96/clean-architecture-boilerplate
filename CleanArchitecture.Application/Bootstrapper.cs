@@ -2,11 +2,7 @@ using System.Reflection;
 using CleanArchitecture.Application.Common.Behaviours;
 using CleanArchitecture.Application.Models;
 using CleanArchitecture.Application.Services.JwtServiceProvider;
-using FirebaseAdmin;
 using FluentValidation;
-using Google.Apis.Auth.OAuth2;
-using Hangfire;
-using Hangfire.PostgreSql;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
