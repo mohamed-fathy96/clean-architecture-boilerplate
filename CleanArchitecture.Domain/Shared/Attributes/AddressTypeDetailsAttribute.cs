@@ -1,4 +1,4 @@
-namespace Portrage.Domain.Shared.Attributes;
+namespace CleanArchitecture.Domain.Shared.Attributes;
 
 public class AddressTypeDetailsAttribute : Attribute
 {

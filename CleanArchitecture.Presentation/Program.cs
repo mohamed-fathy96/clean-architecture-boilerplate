@@ -4,11 +4,8 @@ using CleanArchitecture.Application.Common;
 using CleanArchitecture.Infrastructure;
 using CleanArchitecture.Presentation;
 using CleanArchitecture.Presentation.Infrastructure;
-using CleanArchitecture.Presentation.Infrastructure.Hangfire;
 using CleanArchitecture.Presentation.Middlewares;
-using Hangfire;
 using Microsoft.AspNetCore.Localization;
-using Portrage.Presentation.Middlewares;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,7 +1,7 @@
 using System.Reflection;
 using CleanArchitecture.Domain.Shared;
+using CleanArchitecture.Domain.Shared.Attributes;
 using Microsoft.OpenApi.Models;
-using Portrage.Domain.Shared.Attributes;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
 namespace CleanArchitecture.Presentation.Infrastructure.Swagger;

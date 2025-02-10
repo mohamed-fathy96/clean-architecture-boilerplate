@@ -1,4 +1,4 @@
-namespace Portrage.Domain.Shared.Attributes;
+namespace CleanArchitecture.Domain.Shared.Attributes;
 
 /// <summary>
 /// This attributes ensures any command tagged by it is audited and the action will be logged

@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace Portrage.Presentation.Middlewares;
+namespace CleanArchitecture.Presentation.Middlewares;
 
 public class LocalizationMiddleware(RequestDelegate next)
 {
